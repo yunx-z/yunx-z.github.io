@@ -15,7 +15,22 @@ I am a senior undergraduate student at Peking University (PKU) advised by Prof. 
 # News
 * 2021-12: One [paper](https://arxiv.org/abs/2109.11087) accepted to AAAI 2022!
 
+# Publications
+See also my [Google Scholar Profile](https://scholar.google.com/citations?user=pbvWlJwAAAAJ&hl=en).
 
+## 2022
+* BiRdQA: A Bilingual Dataset for Question Answering on Tricky Riddles
+  **Yunxiang Zhang**, Xiaojun Wan
+  AAAI 2022 [[paper](https://arxiv.org/abs/2109.11087)]
+
+## 2021
+* Causally Estimating the Sensitivity of Neural NLP Models to Spurious Features
+  **Yunxiang Zhang**, Liangming Pan, Samson Tan, Min-Yen Kan
+  arXiv preprint [[paper](https://arxiv.org/abs/2110.07159)]
+  
+* MOVER: Mask, Over-generate and Rank for Hyperbole Generation
+  **Yunxiang Zhang**, Xiaojun Wan
+  arXiv preprint [[paper](https://arxiv.org/abs/2109.07726)]
 
 
 
