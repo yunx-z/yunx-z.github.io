@@ -16,8 +16,6 @@ I am a senior undergraduate student at Peking University (PKU) advised by Prof. 
 * 2021-12: One [paper](https://arxiv.org/abs/2109.11087) accepted to AAAI 2022!  
 
 # Publications
-See also my [Google Scholar Profile](https://scholar.google.com/citations?user=pbvWlJwAAAAJ&hl=en).  
-
 ## 2022
 * BiRdQA: A Bilingual Dataset for Question Answering on Tricky Riddles  
   **Yunxiang Zhang**, Xiaojun Wan  
