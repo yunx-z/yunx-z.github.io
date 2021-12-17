@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student at Peking University (PKU) advised by Prof. [Xiaojun Wan](https://wanxiaojun.github.io/). I also interned at National University of Singapore (NUS), where I was fortunate to work with Prof. [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/). I am interested in reliable Natural Language Processing (NLP) technologies that deal with diversified, real-world textual data. Specifically, I work on robustness in NLP and creative language understanding/generation.  
+I am a senior undergraduate student at Peking University advised by Prof. [Xiaojun Wan](https://wanxiaojun.github.io/). I also interned at National University of Singapore, where I was fortunate to work with Prof. [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/). I am interested in researching *reliable* natural language processing technologies that deal with diversified, real-world textual data. Specifically, I work on robustness in NLP and creative language understanding/generation.  
 
 **I am actively seeking for PhD opportunities starting in 2022 Fall.**  
 
