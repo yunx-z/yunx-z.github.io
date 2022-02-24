@@ -13,19 +13,19 @@ I am a senior undergraduate student at Peking University advised by Prof. [Xiaoj
 *I am actively seeking for PhD opportunities starting in 2022 Fall.*   
 
 # News
+* 2022-02: One paper accepted to Findings of ACL 2022!
 * 2021-12: One paper accepted to AAAI 2022!  
 
 # Publications  
 **2022**  
+* Interpreting the Robustness of Neural NLP Models to Textual Perturbations  
+  **Yunxiang Zhang**, Liangming Pan, Samson Tan, Min-Yen Kan  
+  Findings of ACL 2022
 * BiRdQA: A Bilingual Dataset for Question Answering on Tricky Riddles  
   **Yunxiang Zhang**, Xiaojun Wan  
   AAAI 2022 [[paper](https://arxiv.org/abs/2109.11087)]  
 
 **2021**  
-* Causally Estimating the Sensitivity of Neural NLP Models to Spurious Features  
-  **Yunxiang Zhang**, Liangming Pan, Samson Tan, Min-Yen Kan  
-  arXiv preprint [[paper](https://arxiv.org/abs/2110.07159)]  
-  
 * MOVER: Mask, Over-generate and Rank for Hyperbole Generation  
   **Yunxiang Zhang**, Xiaojun Wan  
   arXiv preprint [[paper](https://arxiv.org/abs/2109.07726)]  
