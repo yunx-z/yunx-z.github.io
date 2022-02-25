@@ -13,8 +13,8 @@ I am a senior undergraduate student at Peking University advised by Prof. [Xiaoj
 *I am actively seeking for PhD opportunities starting in 2022 Fall.*   
 
 # News
-* 2022-02: One paper accepted to Findings of ACL 2022!
-* 2021-12: One paper accepted to AAAI 2022!  
+* 2022-02: One paper accepted to **Findings of ACL 2022**!
+* 2021-12: One paper accepted to **AAAI 2022**!  
 
 # Publications  
 **2022**  
