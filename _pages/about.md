@@ -23,7 +23,7 @@ I am a senior undergraduate student at Peking University advised by Prof. [Xiaoj
   *Findings of ACL 2022 (Long Paper)* [[paper](https://openreview.net/forum?id=ONfJZSIkLli)]  
 * BiRdQA: A Bilingual Dataset for Question Answering on Tricky Riddles  
   **Yunxiang Zhang**, Xiaojun Wan  
-  *AAAI 2022 (Full Paper)* [[paper](https://arxiv.org/abs/2109.11087)]  
+  *AAAI 2022 (Full Paper)* [[paper](https://arxiv.org/abs/2109.11087)] [[data](https://forms.gle/NvT7DfWhAPhvoFvH7)] 
 
 **2021**  
 * MOVER: Mask, Over-generate and Rank for Hyperbole Generation  
