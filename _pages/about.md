@@ -20,7 +20,7 @@ I am a senior undergraduate student at Peking University advised by Prof. [Xiaoj
 **2022**  
 * Interpreting the Robustness of Neural NLP Models to Textual Perturbations  
   **Yunxiang Zhang**, Liangming Pan, Samson Tan, Min-Yen Kan  
-  *Findings of ACL 2022 (Long Paper)* [[paper](https://openreview.net/forum?id=ONfJZSIkLli)]  
+  *Findings of ACL 2022 (Long Paper)* [[paper](https://arxiv.org/abs/2110.07159)]  
 * BiRdQA: A Bilingual Dataset for Question Answering on Tricky Riddles  
   **Yunxiang Zhang**, Xiaojun Wan  
   *AAAI 2022 (Full Paper)* [[paper](https://arxiv.org/abs/2109.11087)] [[data](https://forms.gle/NvT7DfWhAPhvoFvH7)] 
