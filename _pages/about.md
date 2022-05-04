@@ -20,7 +20,7 @@ I am a senior undergraduate student at Peking University advised by Prof. [Xiaoj
 **2022**  
 * MOVER: Mask, Over-generate and Rank for Hyperbole Generation  
   **Yunxiang Zhang**, Xiaojun Wan  
-  *NAACL 2022 (Long Paper)* [[preprint](https://arxiv.org/abs/2109.07726)]  
+  *NAACL 2022 (Long Paper)* [[paper](https://arxiv.org/abs/2109.07726)]  
 * Interpreting the Robustness of Neural NLP Models to Textual Perturbations  
   **Yunxiang Zhang**, Liangming Pan, Samson Tan, Min-Yen Kan  
   *Findings of ACL 2022 (Long Paper)* [[paper](https://arxiv.org/abs/2110.07159)]  
