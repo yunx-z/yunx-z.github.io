@@ -8,8 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student at Peking University advised by Prof. [Xiaojun Wan](https://wanxiaojun.github.io/). Previously, I interned at the [Web Information Retrieval / Natural Language Processing Group](https://wing.comp.nus.edu.sg/) of National University of Singapore, where I was fortunate to work with Prof. [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/). In 2022 Fall, I will join the University of Michigan – Ann Arbor as a PhD student, advised by Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/index.html). I am interested in researching *reliable* natural language processing technologies that deal with diversified, real-world textual data. Particularly, I have worked on robustness in NLP and creative language understanding/generation. 
-  
+I am a first-year Ph.D. student in Computer Science & Engineering (CSE) at University of Michigan – Ann Arbor. My advisor is Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/index.html). 
+
+My current research focus lies in knowledge-grounded reasoning models for natural language processing. I am also interested in natural language generation and robustness in NLP. 
+
+Previously, I obtained my Bachelor’s degree at Peking University, advised by Prof. [Xiaojun Wan](https://wanxiaojun.github.io/).
+
+My CV is here.
 
 # News
 * 2022-04: One paper accepted to **NAACL 2022**!
