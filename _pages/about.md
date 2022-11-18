@@ -14,7 +14,7 @@ My current research focus lies in knowledge-grounded reasoning models for natura
 
 Previously, I obtained my Bachelor’s degree at Peking University, advised by Prof. [Xiaojun Wan](https://wanxiaojun.github.io/).
 
-My CV is here.
+Please check out my CV [here](https://github.com/yunx-z/yunx-z.github.io/raw/master/files/Personal_CV.pdf).
 
 # News
 * 2022-04: One paper accepted to **NAACL 2022**!
