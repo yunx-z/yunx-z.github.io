@@ -12,6 +12,7 @@ I am a second-year CS Ph.D. student at the [LAUNCH Lab](https://launch.eecs.umic
 
 I work on natural language processing (NLP), with a research focus on knowledge and reasoning in large language models (LLMs).
 
+***I am looking for 2024 summer research internship opportunities!***
 
 # News
 * 2023-10: One paper is accepted to **EMNLP 2023** on [open-domain question answering](https://arxiv.org/pdf/2310.14393.pdf)!
