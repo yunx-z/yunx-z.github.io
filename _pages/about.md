@@ -20,15 +20,17 @@ I work on natural language processing (NLP), with a research focus on knowledge 
 * 2023-09: One paper is accepted to **NeurIPS 2023 Datasets and Benchmarks Track** on [generative commonsense reasoning](https://arxiv.org/pdf/2306.12552.pdf)!  
 
 # Publications  
+*(\* denotes equal contribution)*
+
 **2023**
-* Merging Generated and Retrieved Knowledge for Open-Domain QA
-  **Yunxiang Zhang**, Muhammad Khalifa, Lajanugen Logeswaran, Moontae Lee, Honglak Lee, Lu Wang
+* Merging Generated and Retrieved Knowledge for Open-Domain QA  
+  **Yunxiang Zhang**, Muhammad Khalifa, Lajanugen Logeswaran, Moontae Lee, Honglak Lee, Lu Wang  
   *EMNLP 2023* [[paper](https://arxiv.org/abs/2310.14393)] [[code](https://github.com/yunx-z/COMBO)]
-* SituatedGen: Incorporating Geographical and Temporal Contexts into Generative Commonsense Reasoning
-  **Yunxiang Zhang**, Xiaojun Wan
+* SituatedGen: Incorporating Geographical and Temporal Contexts into Generative Commonsense Reasoning  
+  **Yunxiang Zhang**, Xiaojun Wan  
   *NeurIPS 2023 Datasets and Benchmarks Track* [[paper](https://arxiv.org/abs/2306.12552)] [[data](https://github.com/yunx-z/situated_gen)]
-* Investigating Zero- and Few-shot Generalization in Fact Verification
-  Liangming Pan, **Yunxiang Zhang**, Min-Yen Kan
+* Investigating Zero- and Few-shot Generalization in Fact Verification  
+  Liangming Pan*, **Yunxiang Zhang\***, Min-Yen Kan  
   *AACL-IJCNLP 2023* [[paper](https://arxiv.org/abs/2309.09444)]
 
 **2022**  
