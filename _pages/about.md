@@ -30,7 +30,7 @@ I work on natural language processing (NLP), with a research focus on knowledge 
   **Yunxiang Zhang**, Xiaojun Wan  
   *NeurIPS 2023 Datasets and Benchmarks Track* [[paper](https://arxiv.org/abs/2306.12552)] [[data](https://github.com/yunx-z/situated_gen)]
 * Investigating Zero- and Few-shot Generalization in Fact Verification  
-  Liangming Pan*, **Yunxiang Zhang\***, Min-Yen Kan  
+  Liangming Pan\*, **Yunxiang Zhang\***, Min-Yen Kan  
   *AACL-IJCNLP 2023* [[paper](https://arxiv.org/abs/2309.09444)]
 
 **2022**  
