@@ -43,3 +43,6 @@ I work on natural language processing (NLP), with a research focus on knowledge 
 * BiRdQA: A Bilingual Dataset for Question Answering on Tricky Riddles  
   **Yunxiang Zhang**, Xiaojun Wan  
   *AAAI 2022* [[paper](https://arxiv.org/abs/2109.11087)] [[data](https://forms.gle/NvT7DfWhAPhvoFvH7)] 
+
+# Services
+Program Committee Member / Reviewer: EMNLP (2022, 2023), ACL (2023), CoNLL (2023), ML4Health (2023), ACM Computing Surveys
