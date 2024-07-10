@@ -10,17 +10,21 @@ redirect_from:
 
 I am a second-year CS Ph.D. student at the [LAUNCH Lab](https://launch.eecs.umich.edu/), University of Michigan – Ann Arbor, advised by Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/index.html). I obtained my Bachelor’s degree from Peking University, advised by Prof. [Xiaojun Wan](https://wanxiaojun.github.io/).
 
-I work on natural language processing (NLP), with a research focus on knowledge and reasoning in large language models (LLMs).
-
-***I am looking for 2024 summer research internship opportunities!***
+My research aims to reduce hallucinations and improve the reasoning capabilities of language models (LMs).
 
 # News
-* 2023-10: One paper is accepted to **EMNLP 2023** on [open-domain question answering](https://arxiv.org/pdf/2310.14393.pdf)!
-* 2023-09: I have passed my prelim exam!
-* 2023-09: One paper is accepted to **NeurIPS 2023 Datasets and Benchmarks Track** on [generative commonsense reasoning](https://arxiv.org/pdf/2306.12552.pdf)!  
+* 2024-05: One paper is accepted to **Findings of ACL 2024** on [self-correction of small LMs](https://arxiv.org/pdf/2404.17140)! See you in Bangkok, Thailand.
+* 2024-05: Pleased to start my 1st PhD internship at [Microsoft Research, Montreal](https://www.microsoft.com/en-us/research/lab/microsoft-research-montreal/). I will work with [Eric Yuan](https://www.microsoft.com/en-us/research/people/eryua/) and [Alessandro Sordoni](https://www.microsoft.com/en-us/research/people/alsordon/).
+* 2023-10: One paper is accepted to **EMNLP 2023** on [knowledge conflicts for LLMs](https://arxiv.org/pdf/2310.14393.pdf)!
+
 
 # Publications  
 *(\* denotes equal contribution)*
+
+**2024**
+* Small Language Models Need Strong Verifiers to Self-Correct Reasoning
+  **Yunxiang Zhang**, Muhammad Khalifa, Lajanugen Logeswaran, Jaekyeom Kim, Moontae Lee, Honglak Lee, Lu Wang  
+  *Findings of ACL 2024* [[paper](https://arxiv.org/abs/2404.17140)] [[code](https://github.com/yunx-z/SCORE)]
 
 **2023**
 * Merging Generated and Retrieved Knowledge for Open-Domain QA  
@@ -45,4 +49,4 @@ I work on natural language processing (NLP), with a research focus on knowledge 
   *AAAI 2022* [[paper](https://arxiv.org/abs/2109.11087)] [[data](https://forms.gle/NvT7DfWhAPhvoFvH7)] 
 
 # Services
-Program Committee Member / Reviewer: EMNLP (2022, 2023), ACL (2023), CoNLL (2023), ML4Health (2023), ACM Computing Surveys
+Program Committee Member / Reviewer: NeurIPS (2024), ACL 2024 KnowledgeNLP Workshop, COLM (2024), EMNLP (2022, 2023), ACL (2023), CoNLL (2023, 2024), ML4Health (2023), ACM Computing Surveys
