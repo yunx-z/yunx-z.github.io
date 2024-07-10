@@ -23,6 +23,7 @@ My research aims to reduce hallucinations and improve the reasoning capabilities
 
 **2024**
 * Small Language Models Need Strong Verifiers to Self-Correct Reasoning
+  
   **Yunxiang Zhang**, Muhammad Khalifa, Lajanugen Logeswaran, Jaekyeom Kim, Moontae Lee, Honglak Lee, Lu Wang  
   *Findings of ACL 2024* [[paper](https://arxiv.org/abs/2404.17140)] [[code](https://github.com/yunx-z/SCORE)]
 
