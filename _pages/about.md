@@ -49,4 +49,4 @@ My research aims to reduce hallucinations and improve the reasoning capabilities
   *AAAI 2022* [[paper](https://arxiv.org/abs/2109.11087)] [[data](https://forms.gle/NvT7DfWhAPhvoFvH7)] 
 
 # Services
-Program Committee Member / Reviewer: NeurIPS (2024), ACL 2024 KnowledgeNLP Workshop, COLM (2024), EMNLP (2022, 2023), ACL (2023), CoNLL (2023, 2024), ML4Health (2023), ACM Computing Surveys
+Program Committee Member / Reviewer: ACL Rolling Review, NeurIPS (2024), ACL 2024 KnowledgeNLP Workshop, COLM (2024), EMNLP (2022, 2023), ACL (2023), CoNLL (2023, 2024), ML4Health (2023), ACM Computing Surveys
