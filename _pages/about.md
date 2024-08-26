@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year CS Ph.D. student at the [LAUNCH Lab](https://launch.eecs.umich.edu/), University of Michigan – Ann Arbor, advised by Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/index.html). I obtained my Bachelor’s degree from Peking University, advised by Prof. [Xiaojun Wan](https://wanxiaojun.github.io/).
+I am a rising 3rd year CS Ph.D. candidate at the [LAUNCH Lab](https://launch.eecs.umich.edu/), University of Michigan – Ann Arbor, advised by Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/index.html). I obtained my Bachelor’s degree from Peking University, advised by Prof. [Xiaojun Wan](https://wanxiaojun.github.io/).
 
 My research aims to reduce hallucinations and improve the reasoning capabilities of language models (LMs).
 
@@ -49,4 +49,4 @@ My research aims to reduce hallucinations and improve the reasoning capabilities
   *AAAI 2022* [[paper](https://arxiv.org/abs/2109.11087)] [[data](https://forms.gle/NvT7DfWhAPhvoFvH7)] 
 
 # Services
-Program Committee Member / Reviewer: ACL Rolling Review, NeurIPS (2024), ACL 2024 KnowledgeNLP Workshop, COLM (2024), EMNLP (2022, 2023), ACL (2023), CoNLL (2023, 2024), ML4Health (2023), ACM Computing Surveys
+Program Committee Member / Reviewer: ICLR (2025), ACL Rolling Review (June 2024), NeurIPS (2024), ACL 2024 KnowledgeNLP Workshop, COLM (2024), EMNLP (2022, 2023), ACL (2023), CoNLL (2023, 2024), ML4Health (2023), ACM Computing Surveys
