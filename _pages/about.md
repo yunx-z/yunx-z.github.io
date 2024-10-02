@@ -21,12 +21,9 @@ My research aims to reduce hallucinations and improve the reasoning capabilities
 # Publications  
 *(\* denotes equal contribution)*
 
-**2024**
 * Small Language Models Need Strong Verifiers to Self-Correct Reasoning   
   **Yunxiang Zhang**, Muhammad Khalifa, Lajanugen Logeswaran, Jaekyeom Kim, Moontae Lee, Honglak Lee, Lu Wang  
-  *Findings of ACL 2024* [[paper](https://arxiv.org/abs/2404.17140)] [[code](https://github.com/yunx-z/SCORE)]
-
-**2023**
+  *Findings of ACL 2024* [[paper](https://arxiv.org/abs/2404.17140)] [[code](https://github.com/yunx-z/SCORE)] [[project page](https://yunx-z.github.io/score.github.io/)]
 * Merging Generated and Retrieved Knowledge for Open-Domain QA  
   **Yunxiang Zhang**, Muhammad Khalifa, Lajanugen Logeswaran, Moontae Lee, Honglak Lee, Lu Wang  
   *EMNLP 2023* [[paper](https://arxiv.org/abs/2310.14393)] [[code](https://github.com/yunx-z/COMBO)]
@@ -36,8 +33,6 @@ My research aims to reduce hallucinations and improve the reasoning capabilities
 * Investigating Zero- and Few-shot Generalization in Fact Verification  
   Liangming Pan\*, **Yunxiang Zhang\***, Min-Yen Kan  
   *AACL-IJCNLP 2023* [[paper](https://arxiv.org/abs/2309.09444)]
-
-**2022**  
 * MOVER: Mask, Over-generate and Rank for Hyperbole Generation  
   **Yunxiang Zhang**, Xiaojun Wan  
   *NAACL 2022* [[paper](https://arxiv.org/abs/2109.07726)] [[code](https://github.com/yunx-z/MOVER)]
@@ -49,4 +44,4 @@ My research aims to reduce hallucinations and improve the reasoning capabilities
   *AAAI 2022* [[paper](https://arxiv.org/abs/2109.11087)] [[data](https://forms.gle/NvT7DfWhAPhvoFvH7)] 
 
 # Services
-Program Committee Member / Reviewer: ICLR (2025), ACL Rolling Review (June 2024), NeurIPS (2024), ACL 2024 KnowledgeNLP Workshop, COLM (2024), EMNLP (2022, 2023), ACL (2023), CoNLL (2023, 2024), ML4Health (2023), ACM Computing Surveys
+Program Committee Member / Reviewer: AISTATS (2025), ICLR (2025), ACL Rolling Review (June 2024), NeurIPS (2024), ACL 2024 KnowledgeNLP Workshop, COLM (2024), EMNLP (2022, 2023), ACL (2023), CoNLL (2023, 2024), ML4Health (2023), ACM Computing Surveys
