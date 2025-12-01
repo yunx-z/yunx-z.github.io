@@ -15,14 +15,14 @@ I work on LLM reasoning and agents.
 # News
 * 2025-11: Thrilled to receive **NeurIPS Travel Award**!
 * 2025-10: Check out our recent work, [ThinkLogit](https://arxiv.org/pdf/2510.09354), on efficient long chain-of-thought reasoning.
-* 2025-09: [MLRC-Bench](https://arxiv.org/pdf/2504.09702), which focuses on the evaluation of AI research agents, has been accepted to **NeurIPS 2025 Datasets and Benchmarks Track**. See you in San Diego!"
-* 2025-05: Excited to start an internship at AWS Agentic AI, working on ML engineering agent. 
+* 2025-09: [MLRC-Bench](https://arxiv.org/pdf/2504.09702), which focuses on the evaluation of AI research agents, has been accepted to **NeurIPS 2025 Datasets and Benchmarks Track**. See you in San Diego!
+* 2025-05: Excited to start an internship at AWS Agentic AI, working on machine learning engineering (MLE) agent. 
 
 
 # Selected Publications  
 
 * Logit Arithmetic Elicits Long Reasoning Capabilities Without Training   
-  **Yunxiang Zhang**, Muhammad Khalifa, Lechen Zhang, Xin Liu, Ayoung Lee, Xinliang Frederick Zhang, Farima Fatahi Bayat, Lu Wang
+  **Yunxiang Zhang**, Muhammad Khalifa, Lechen Zhang, Xin Liu, Ayoung Lee, Xinliang Frederick Zhang, Farima Fatahi Bayat, Lu Wang    
   *The 1st Workshop on Test-time Scaling and Reasoning Models (SCALR @ COLM 2025)* [[paper](https://arxiv.org/pdf/2510.09354)] [[code](https://github.com/yunx-z/think-logit)] 
 * MLRC-Bench: Can Language Agents Solve Machine Learning Research Challenges?   
   **Yunxiang Zhang**, Muhammad Khalifa, Shitanshu Bhushan, Grant D Murphy, Lajanugen Logeswaran, Jaekyeom Kim, Moontae Lee, Honglak Lee, Lu Wang  
