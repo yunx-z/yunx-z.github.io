@@ -14,6 +14,7 @@ I work on LLM reasoning and agents.
 
 # News
 * 2026-05: Excited to start a Research Scientist internship at Meta!
+* 2026-05: Thrilled to receive ICML 2026 Silver Reviewer Award!
 * 2026-04: [AdaMEM](https://arxiv.org/pdf/2606.05684), which focuses on test-time adaptive agent memory, has been accepted to **ICML 2026**.
 * 2026-04: [ThinkLogit](https://arxiv.org/pdf/2510.09354), which focuses on test-time compute for long reasoning, has been accepted to **ACL Findings 2026**. See you in San Diego!
 
