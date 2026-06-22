@@ -21,7 +21,7 @@ I work on LLM reasoning and agents.
 
 # Selected Publications  
 
-* AdaMEM: Test-Time Adaptive Memory for Language Agents
+* AdaMEM: Test-Time Adaptive Memory for Language Agents   
   **Yunxiang Zhang**, Yiheng Li, Ali Payani, Lu Wang   
   *ICML 2026* [[paper](https://arxiv.org/pdf/2606.05684)] [[code](https://github.com/yunx-z/AdaMEM)] [[project page](https://yunx-z.github.io/AdaMEM/)]
 * Logit Arithmetic Elicits Long Reasoning Capabilities Without Training   
@@ -54,4 +54,4 @@ Co-Organizer, 1st Workshop on Test-Time Scaling and Reasoning Models, COLM 2025
 
 Student Volunteer, ACL 2024
 
-Reviewer: ICML (2025-26), AISTATS (2025), ICLR (2025), NeurIPS (2024-25), ACL Rolling Review (2024-25), COLM (2024), EMNLP (2022-24), ACL (2023), CoNLL (2023-24),  ACM Computing Surveys
+Reviewer: TMLR, ICML (2025-26), AISTATS (2025), ICLR (2025-26), NeurIPS (2024-25), ACL Rolling Review (2024-26), COLM (2024, 2026), EMNLP (2022-24), ACL (2023), CoNLL (2023-24),  ACM Computing Surveys
