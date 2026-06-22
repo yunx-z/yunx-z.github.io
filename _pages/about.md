@@ -13,17 +13,19 @@ I am a 4th year CS Ph.D. candidate at the [LAUNCH Lab](https://launch.eecs.umich
 I work on LLM reasoning and agents.
 
 # News
-* 2025-11: Thrilled to receive **NeurIPS Travel Award**!
-* 2025-10: Check out our recent work, [ThinkLogit](https://arxiv.org/pdf/2510.09354), on efficient long chain-of-thought reasoning.
-* 2025-09: [MLRC-Bench](https://arxiv.org/pdf/2504.09702), which focuses on the evaluation of AI research agents, has been accepted to **NeurIPS 2025 Datasets and Benchmarks Track**. See you in San Diego!
-* 2025-05: Excited to start an internship at AWS Agentic AI, working on machine learning engineering (MLE) agent. 
+* 2026-05: Excited to start a Research Scientist internship at Meta!
+* 2026-04: [AdaMEM](https://arxiv.org/pdf/2606.05684), which focuses on test-time adaptive agent memory, has been accepted to **ICML 2026**.
+* 2026-04: [ThinkLogit](https://arxiv.org/pdf/2510.09354), which focuses on test-time compute for long reasoning, has been accepted to **ACL Findings 2026**. See you in San Diego!
 
 
 # Selected Publications  
 
+* AdaMEM: Test-Time Adaptive Memory for Language Agents
+  **Yunxiang Zhang**, Yiheng Li, Ali Payani, Lu Wang   
+  *ICML 2026* [[paper](https://arxiv.org/pdf/2606.05684)] [[code](https://github.com/yunx-z/AdaMEM)] [[project page](https://yunx-z.github.io/AdaMEM/)]
 * Logit Arithmetic Elicits Long Reasoning Capabilities Without Training   
   **Yunxiang Zhang**, Muhammad Khalifa, Lechen Zhang, Xin Liu, Ayoung Lee, Xinliang Frederick Zhang, Farima Fatahi Bayat, Lu Wang    
-  *The 1st Workshop on Test-time Scaling and Reasoning Models (SCALR @ COLM 2025)* [[paper](https://arxiv.org/pdf/2510.09354)] [[code](https://github.com/yunx-z/think-logit)] 
+  *Findings of ACL 2026* [[paper](https://arxiv.org/pdf/2510.09354)] [[code](https://github.com/yunx-z/think-logit)] 
 * MLRC-Bench: Can Language Agents Solve Machine Learning Research Challenges?   
   **Yunxiang Zhang**, Muhammad Khalifa, Shitanshu Bhushan, Grant D Murphy, Lajanugen Logeswaran, Jaekyeom Kim, Moontae Lee, Honglak Lee, Lu Wang  
   *NeurIPS 2025 Datasets and Benchmarks Track* [[paper](https://arxiv.org/pdf/2504.09702)] [[project page](https://huggingface.co/spaces/launch/MLRC_Bench)] [[code](https://github.com/yunx-z/MLRC-Bench)]
@@ -51,4 +53,4 @@ Co-Organizer, 1st Workshop on Test-Time Scaling and Reasoning Models, COLM 2025
 
 Student Volunteer, ACL 2024
 
-Reviewer: ICML (2025), AISTATS (2025), ICLR (2025), NeurIPS (2024-25), ACL Rolling Review (2024-25), COLM (2024), EMNLP (2022-24), ACL (2023), CoNLL (2023-24),  ACM Computing Surveys
+Reviewer: ICML (2025-26), AISTATS (2025), ICLR (2025), NeurIPS (2024-25), ACL Rolling Review (2024-25), COLM (2024), EMNLP (2022-24), ACL (2023), CoNLL (2023-24),  ACM Computing Surveys
