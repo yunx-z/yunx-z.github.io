@@ -17,6 +17,7 @@ I work on LLM reasoning and agents.
 * 2026-05: Thrilled to receive ICML 2026 Silver Reviewer Award!
 * 2026-04: [AdaMEM](https://arxiv.org/pdf/2606.05684), which focuses on test-time adaptive agent memory, has been accepted to **ICML 2026**.
 * 2026-04: [ThinkLogit](https://arxiv.org/pdf/2510.09354), which focuses on test-time compute for long reasoning, has been accepted to **ACL Findings 2026**. See you in San Diego!
+* 2026-01: [MLE-Ideator](https://arxiv.org/pdf/2601.17596), which focuses on reinforcement learning for MLE agent, has been accepted to **EACL 2026**.
 
 
 # Selected Publications  
@@ -26,7 +27,10 @@ I work on LLM reasoning and agents.
   *ICML 2026* [[paper](https://arxiv.org/pdf/2606.05684)] [[code](https://github.com/yunx-z/AdaMEM)] [[project page](https://yunx-z.github.io/AdaMEM/)]
 * Logit Arithmetic Elicits Long Reasoning Capabilities Without Training   
   **Yunxiang Zhang**, Muhammad Khalifa, Lechen Zhang, Xin Liu, Ayoung Lee, Xinliang Frederick Zhang, Farima Fatahi Bayat, Lu Wang    
-  *Findings of ACL 2026* [[paper](https://arxiv.org/pdf/2510.09354)] [[code](https://github.com/yunx-z/think-logit)] 
+  *Findings of ACL 2026* [[paper](https://arxiv.org/pdf/2510.09354)] [[code](https://github.com/yunx-z/think-logit)]
+* Learning to Ideate for Machine Learning Engineering Agents   
+  **Yunxiang Zhang**, Kang Zhou, Zhichao Xu, Kiran Ramnath, Yun Zhou, Sangmin Woo, Haibo Ding, Lin Lee Cheong   
+  *EACL 2026* [[paper](https://arxiv.org/pdf/2601.17596)]
 * MLRC-Bench: Can Language Agents Solve Machine Learning Research Challenges?   
   **Yunxiang Zhang**, Muhammad Khalifa, Shitanshu Bhushan, Grant D Murphy, Lajanugen Logeswaran, Jaekyeom Kim, Moontae Lee, Honglak Lee, Lu Wang  
   *NeurIPS 2025 Datasets and Benchmarks Track* [[paper](https://arxiv.org/pdf/2504.09702)] [[project page](https://huggingface.co/spaces/launch/MLRC_Bench)] [[code](https://github.com/yunx-z/MLRC-Bench)]
